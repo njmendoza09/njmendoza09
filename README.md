@@ -1,26 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00E599&center=true&vCenter=true&width=560&lines=%24+whoami;%24+nikka+mendoza+--role+seo;%24+making+the+internet+findable" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=00E599&center=true&vCenter=true&width=620&lines=%24+sudo+make+me+a+snack;%24+permission+denied;%24+meow%3F;%24+access+granted+%E2%9C%A8" alt="terminal typing" />
 
 <br>
 
-<kbd> <br> &nbsp;&nbsp;**njmendoza09**&nbsp;&nbsp; <br> </kbd> &nbsp;&nbsp; <kbd> <br> &nbsp;&nbsp;`~/OpsWerks`&nbsp;&nbsp; <br> </kbd> &nbsp;&nbsp; <kbd> <br> &nbsp;&nbsp;**status: online**&nbsp;&nbsp; <br> </kbd>
+<kbd> <br> &nbsp;&nbsp;**nikka**&nbsp;&nbsp; <br> </kbd> &nbsp;&nbsp; <kbd> <br> &nbsp;&nbsp;`certified silly little guy`&nbsp;&nbsp; <br> </kbd> &nbsp;&nbsp; <kbd> <br> &nbsp;&nbsp;**status: loafing**&nbsp;&nbsp; <br> </kbd>
 
 </div>
 
 <br>
 
 ```console
-nikka@github:~$ cat about.txt
+nikka@github:~$ ./boot.sh
 
-  ╭──────────────────────────────────────────────────────╮
-  │                                                      │
-  │   I make things rank, then I make them convert.      │
-  │                                                      │
-  │   Search is just a very large, very opinionated       │
-  │   database — I spend my days querying it.            │
-  │                                                      │
-  ╰──────────────────────────────────────────────────────╯
+            |\      _,,,---,,_
+      ZZZzz /,`.-'`'    -.  ;-;;,_
+           |,4-  ) )-,_. ,\ (  `'-'
+          '---''(_/--'  `-'\_)
+
+  [  OK  ] Mounted /dev/snacks
+  [  OK  ] Started Zoomies.service
+  [ FAIL ] Failed to start Sleep Schedule
+  [  OK  ] Reached target Chaos
+  [ WARN ] 47 tabs open. all of them meow.
+  [ WARN ] something was knocked off the table. on purpose.
+  [ WARN ] last commit: "fix"
+  [ WARN ] commit before that: "fix fix"
+  [ WARN ] commit before that: "mrrrp"
+
+  gud mornin hooman. it is 3am. feed me.
 
 nikka@github:~$ _
 ```
@@ -29,27 +37,21 @@ nikka@github:~$ _
 
 <div align="center">
 
-### `▸ ls -la ~/stack`
+### `▸ cat skills.json` &nbsp;&nbsp;<sub>(cat)</sub>
 
 </div>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Ahrefs-FF7A59?style=for-the-badge&logo=ahrefs&logoColor=white" />
-<img src="https://img.shields.io/badge/Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" />
-<img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Screaming_Frog-4CAF50?style=for-the-badge&logo=frog&logoColor=white" />
-
-</div>
+```json
+{
+  "napping":               "████████████████████ 100%",
+  "confidence":            "███████████████░░░░░  75%",
+  "knowin stuff":          "████░░░░░░░░░░░░░░░░  20%",
+  "closin tabs":           "█░░░░░░░░░░░░░░░░░░░   3%",
+  "sayin 'one sec'":       "████████████████████ 100%",
+  "finishin da project":   "░░░░░░░░░░░░░░░░░░░░   0%",
+  "sittin in da box":      "████████████████████ 100%"
+}
+```
 
 <br>
 
@@ -59,14 +61,15 @@ nikka@github:~$ _
 
 <div align="center">
 
-### `▸ ./run --diagnostics`
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=njmendoza09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E599&icon_color=00E599&text_color=C9D1D9&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=njmendoza09&hide_border=true&background=0D1117&ring=00E599&fire=00E599&currStreakLabel=00E599&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://img.shields.io/badge/It_Works_On-My_Machine-00E599?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Bugs-They're_Features-FFD93D?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Naps_Taken-Yes-FF9FF3?style=for-the-badge&labelColor=0D1117" />
 
 <br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njmendoza09&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E599&text_color=C9D1D9&langs_count=8" />
+<img src="https://img.shields.io/badge/Documentation-lol_no-9B59B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Tests-🙈-4ECDC4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Deployed_On-Friday-E74C3C?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -77,56 +80,85 @@ nikka@github:~$ _
 <br>
 
 <details>
-<summary><b><code>▸ man nikka</code> &nbsp;&nbsp;&nbsp;<i>(expand)</i></b></summary>
+<summary><b><code>▸ man nikka</code> &nbsp;&nbsp;&nbsp;<i>(do not open)</i></b></summary>
 
 <br>
 
 ```man
 NAME
-       nikka — search engine optimization specialist
+       nikka — smol creature, allegedly employd
 
 SYNOPSIS
-       nikka [--audit] [--strategy] [--automate] <domain>
+       nikka [--snacc] [--nap] [--no-meetings] <task>
 
 DESCRIPTION
-       Takes a website that nobody can find and makes it
-       impossible to miss. Works across technical SEO,
-       content architecture, and the reporting layer that
-       proves any of it mattered.
+       Turns snaccs into slightly-workin things. Has never
+       red da documentation. Will not start readin da
+       documentation. Is currently in a box.
 
 OPTIONS
-       --audit
-              Crawl, diagnose, prioritize. Core Web Vitals,
-              index bloat, crawl budget, schema, the works.
+       --snacc
+              Requird. Program will not run without.
+              will scream.
 
-       --strategy
-              Keyword and intent mapping, content gaps,
-              internal linking, topical authority.
+       --nap
+              Non-negotiable. 14 hrs. do not perceive me.
 
-       --automate
-              Scripts that turn four hours of spreadsheet
-              wrangling into one cron job.
+       --no-meetings
+              Improves performance by aprox 4000%.
+
+       --deadline
+              Unlocks abilities previously thought
+              impossible. side effects include zoomies.
+
+BUGS
+       yes :3
+
+       look. it fine. do not worry about it.
 
 EXIT STATUS
-       0      rankings up
-       1      algorithm update
+       0      somehow workd
+       1      somehow also workd
+       2      do not perceive
+       9      knockd it off da table
 
 SEE ALSO
-       coffee(1), patience(7)
+       ctrl-z(1), rm -rf(8), cryin(3), mlem(7)
 ```
 
 </details>
 
 <details>
-<summary><b><code>▸ tail -f ~/currently</code> &nbsp;&nbsp;&nbsp;<i>(expand)</i></b></summary>
+<summary><b><code>▸ tail -f ~/thoughts.log</code></b></summary>
 
 <br>
 
 ```log
-[working on ]  ▸ automating the boring half of SEO reporting
-[learning   ]  ▸ pushing further into Python + data pipelines
-[thinking   ]  ▸ what "search" means when the SERP is a chatbot
-[open to    ]  ▸ interesting problems and good collaborators
+[03:14]  ▸ i fix dis one smol thing
+[03:52]  ▸ why is nothin workin
+[04:31]  ▸ i has made it worse
+[04:33]  ▸ git reset --hard
+[04:34]  ▸ wait
+[04:35]  ▸ WAIT
+[04:36]  ▸ mrrrrrrp :(
+[11:20]  ▸ ok new plan. we do not speak of last nite.
+```
+
+</details>
+
+<details>
+<summary><b><code>▸ ls ~/side-projects</code></b></summary>
+
+<br>
+
+```
+drwx------  abandond-app-1/            (2 commits)
+drwx------  abandond-app-2/            (1 commit)
+drwx------  da-one-im-srs-about/       (0 commits)
+drwx------  ideas.txt                  (47 KB, all unred)
+drwx------  box/                       (currently occupied)
+
+5 directories, 0 finishd
 ```
 
 </details>
@@ -139,11 +171,11 @@ SEE ALSO
 
 <div align="center">
 
-### `▸ ./contact --now`
+### `▸ ./contact --if-u-must`
 
 <br>
 
-<a href="mailto:seo@day1.agency">
+<a href="#">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E599&labelColor=0D1117" />
 </a>
 &nbsp;
@@ -154,19 +186,16 @@ SEE ALSO
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E599&labelColor=0D1117" />
 </a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=safari&logoColor=00E599&labelColor=0D1117" />
-</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=njmendoza09&style=for-the-badge&color=00E599&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=njmendoza09&style=for-the-badge&color=00E599&label=WITNESSES" />
 
 <br><br>
 
 ```
-> connection established. say hi.
+> reply time: 3-5 bizness years
+> will respond if snacc is offerd
 ```
 
 </div>
